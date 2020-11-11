@@ -6,11 +6,11 @@ namespace PAC_desarrollo_UF1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("****************************************************\n" +
+            Console.WriteLine("*****************************************************\n" +
                               "*  PAC_desarrollo_UF1\n" +
                               "*  Marco Antonio Moreno López\n" +
                               "*  DAW 2020/2021\n" +
-                              "****************************************************\n");
+                              "*****************************************************\n");
 
             // 1-Creación de la primera matriz, solicitando el nº de filas y columnas. Tengo en cuenta las excepciones para valores incorrectos introducidos.
             // Además de no permitir introducir valores negativos ya que si no fallaría a la hora de crear la matriz.

@@ -8,7 +8,7 @@ namespace PAC_desarrollo_UF1
         {
             Console.WriteLine("*****************************************************\n" +
                               "*  PAC_desarrollo_UF1\n" +
-                              "*  Marco Antonio Moreno López\n" +
+                              "*  Julio Antonio Moreno López\n" +
                               "*  DAW 2020/2021\n" +
                               "*****************************************************\n");
 
